@@ -1,14 +1,14 @@
-title {
-    color: navy;
-    font-size: 35px;
-}
-
 body {
     background-color: #F0F8FF;
 }
 
 h1 {
     color: Sienna;
+    text-align: center;
+}
+
+h2 {
+    color: #7CFC00;
     text-align: left;
 }
 
